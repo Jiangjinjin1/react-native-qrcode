@@ -3,6 +3,11 @@
   "version": "0.3.1",
   "description": "react-native qrocode generator",
   "main": "index.js",
+  "types": "typings/index.d.ts",
+  "files": [
+    "lib/",
+    "typings/"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cssivision/react-native-qrcode.git"
